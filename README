@@ -1,0 +1,6 @@
+This Terminal emulator in applescript allows the user to run custom shell
+commands without needing shell access. This can be useful, as by default,
+a system administrator might disable shell access as well as executing 
+code not in /Applications. If that's the case, then this applescript
+can be used to bypass that (as Script Editor is in /Applications) and 
+execute command line code.
